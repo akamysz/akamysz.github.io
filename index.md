@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Posts!
+A website about the different things that I have learned from my Computer Science 105 class. 
