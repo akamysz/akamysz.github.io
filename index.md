@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Some home page content.
+Posts!
